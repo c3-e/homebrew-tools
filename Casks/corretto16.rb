@@ -1,4 +1,4 @@
-cask "corretto" do
+cask "corretto16" do
   version "16.0.2.7.1"
   sha256 "2ca385d00a8de342130ff7b2465914fff62e1bc0ba713d9f8f097f90086dddbc"
 
