@@ -15,7 +15,7 @@ class YqAT3 < Formula
 
   keg_only :versioned_formula
 
-  disable! date: "2023-08-01", because: :unmaintained
+  disable! date: "2023-12-31", because: :unmaintained
 
   depends_on "go" => :build
 
