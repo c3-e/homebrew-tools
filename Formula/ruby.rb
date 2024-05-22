@@ -1,4 +1,4 @@
-class RubyAT31 < Formula
+class Ruby < Formula
   desc "Powerful, clean, object-oriented scripting language"
   homepage "https://www.ruby-lang.org/"
   url "https://cache.ruby-lang.org/pub/ruby/3.1/ruby-3.1.5.tar.gz"
